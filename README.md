@@ -1,2 +1,6 @@
 --> Task-1:
--> Exported and experimented with Weather Modeling problem.
+
+--> Implemented weather modeling* using the quadratic solution in stages: hard-coding variables
+keyboard input, read from a file, for a single set of input, multiple sets of inputs.
+
+--> Exported and experimented with Weather Modeling problem.
